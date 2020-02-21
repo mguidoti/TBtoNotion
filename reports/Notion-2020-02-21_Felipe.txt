@@ -1,0 +1,15 @@
+The starting date for entry TMP.InsectaMundi.0736.1-52.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0732.1-306.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0730.1-5.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0724.1-5.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0727.1-12.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0721.1-5.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0718.1-2.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0712.1-30.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0683..pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0744.1-8.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0745.1-4.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0746.1-25.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0747.1-8.pdf.imf is missing;
+The starting date for entry TMP.InsectaMundi.0748.1-30.pdf.imf is missing;
+The entry TMP.InsectaMundi.0684.1-14.pdf.imf is missing value on column GBIF;

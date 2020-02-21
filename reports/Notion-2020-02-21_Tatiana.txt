@@ -1,0 +1,15 @@
+The entry Iheringia.109.e2019022.pdf is missing value on column Project;
+The entry TMP.ActaEntMusNatPra.58.1.91-125.imf is missing value on column TB Reference Link;
+The entry TMP.ActaEntMusNatPra.58.1.91-125.imf is missing value on column UUID;
+The starting date for entry RecAustMus.54.325–334.pdf.imf is missing;
+The starting date for entry ActaEntomolSlov .16.2.105-116.pdf is missing;
+The starting date for entry RevBrasEntomol.55.3.451–453.pdf is missing;
+The starting date for entry TMP.Adansonia.41.1.1-16.pdf is missing;
+The starting date for entry TMP.Adansonia.41.2.17-23.pdf is missing;
+The starting date for entry TMP.Adansonia.41.7.59-67.pdf.imf is missing;
+The end date for entry TMP.ActaEntMusNatPra.58.1.1-10.imf is missing;
+The end date for entry TMP.ActaEntMusNatPra.58.1.11-16.imf is missing;
+The end date for entry TMP.ActaEntMusNatPra.58.1.143-149.imf is missing;
+The starting date for entry TMP.ActaEntMusNatPra.58.1.151-165.imf is missing;
+The end date for entry Iheringia.109.e2019022.pdf is missing;
+The entry RevBrasZool.25.1.139-147.pdf is missing value on column GBIF;

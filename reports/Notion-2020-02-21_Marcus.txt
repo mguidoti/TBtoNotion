@@ -1,0 +1,7 @@
+The entry MONTEMAYOR_and_CARPINTERO-2007-A_new_macropterous_Vianaidinae.pdf is missing value on column DOI;
+The entry J_New_York_Entomol_Soc.114.1-2.38-53.pdf is missing value on column DOI;
+The entry MONTEMAYOR_and_CARPINTERO-2007-A_new_macropterous_Vianaidinae.pdf is missing value on column Number of Pages;
+The entry MONTEMAYOR_and_CARPINTERO-2007-A_new_macropterous_Vianaidinae.pdf is missing value on column Zenodo;
+The entry J_New_York_Entomol_Soc.114.1-2.38-53.pdf is missing value on column Zenodo;
+The entry MONTEMAYOR_and_CARPINTERO-2007-A_new_macropterous_Vianaidinae.pdf is missing value on column Annotation Detail;
+The entry J_New_York_Entomol_Soc.114.1-2.38-53.pdf is missing value on column Annotation Detail;
