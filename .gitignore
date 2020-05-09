@@ -1,0 +1,4 @@
+# Setup Files #
+###################
+.vscode/
+__pycache__/
