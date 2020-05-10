@@ -3,7 +3,8 @@ import pull as pu
 import sys
 import datetime as dt
 
-file_path = sys.argv[1]
+#file_path = sys.argv[1]
+file_path = 'data/Plazi_Poa_Article_Extractions_2020-05_5.xlsx'
 
 fields = ["ContTreatCount",
     "ContTreatCitCount",
@@ -12,7 +13,8 @@ fields = ["ContTreatCount",
     "ContTabCount",
     "ContBibRefCount",
     "MatSpecimenCount",
-    "ContPageCount"
+    "ContPageCount",
+    "DocUploadDate"
     ]
 
 wb = pr.data(file_path)
@@ -32,8 +34,10 @@ for index, row in enumerate(sheet.rows):
 
         if data != None:
                 for key in list(data.keys()):
-                    if key != "DocCount" and key != "DocArticleUuid":
+                    if key != "DocCount" and key != "DocArticleUuid" and key != 'DocUploadDate':
                         pr.write_value(file_path, key, index + 1, int(data[key]))
+                    elif key == 'DocUploadDate':
+                        pr.write_value(file_path, key, index + 1, data[key])
         else:
             next
 
