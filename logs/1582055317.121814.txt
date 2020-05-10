@@ -1,7 +1,0 @@
->>> NO DATA on 2522FFCCFF821543FF93026DFF99F438, probably there are no treatments.
->>> NO DATA on FFD6FF9B554FBC5D3540FFB9B35DA303, probably there are no treatments.
->>> NO DATA on 3224FFF8FFE0BE57312DFF93FFFF6955, probably there are no treatments.
->>> NO DATA on FF9AFFAEF42CE93B1F00FFA6FF9CFF80, probably there are no treatments.
->>> NO DATA on FFB9FFD6730CFFEABC694E3DE42E9967, probably there are no treatments.
->>> NO DATA on FFB7FFF388554F45FFF03A27FFE1FFAC, probably there are no treatments.
->>> NO DATA on EB1AFC06511AFFBBA544FF88FFECFFAD, probably there are no treatments.
